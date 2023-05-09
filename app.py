@@ -4,7 +4,8 @@ from flask import (
     Flask,
     render_template,
     jsonify,
-    request
+    request,
+    redirect
 )
 
 #################################################
@@ -33,15 +34,13 @@ model = load(model_path)
 def home():
     return render_template("index.html")
 
-#################################################
-# API - Back End
-#################################################
-
-
-@app.route("/score", methods=["POST"])
-def predict():
-    labels = ["0", "1"]
-    index = model.predict(
+# Query the database 
+@app.route("/LoanRequestForm", methods=["GET", "POST"])
+def send():
+    if request.method == "POST":
+        labels = ["0", "1"]
+    
+        index = model.predict(
         [
             [
             float(request.form["Credit Policy"]),
@@ -56,11 +55,14 @@ def predict():
             float(request.form["Inquiries for last 6 months"]),
             float(request.form["Dealing 2 years"]),
             float(request.form["Public records"]),
-            float(request.form["Purpose of the Loan"]),           
+            #float(request.form["Purpose of the Loan"]),           
             ],
         ]
     )[0]
-    return jsonify(f"Predicted Loan status: {labels[index]}")
+        print(index)
+        return render_template("Outcome.html", Outcome = labels[index] )
+    else:
+        return render_template("form.html")
 
 
 if __name__ == "__main__":
