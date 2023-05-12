@@ -18,7 +18,7 @@ app = Flask(__name__)
 #################################################
 
 from joblib import load
-model_path = "model.joblib"
+model_path = "Payback.ipynb"
 print("Loading model...")
 model = load(model_path)
 
