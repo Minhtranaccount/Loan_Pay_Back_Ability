@@ -38,7 +38,7 @@ def home():
 def send():
     print("Hello")
     if request.method == "POST":
-        labels = ["CLIENT WILL PAY BACK ALL THE LOAN", "CLIENT WON'T PAY BACK ALL THE LOAN"]
+        labels = ["BORROWER WILL PAY BACK THE LOAN IN FULL", "BORROWER WON'T PAY BACK THE LOAN IN FULL"]
 
         purpose_list = [0,0,0,0,0,0,0]
 
