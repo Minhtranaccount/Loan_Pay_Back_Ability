@@ -1,7 +1,5 @@
 # Loan_Pay_Back_Ability
 
-# Loan_Pay_Back_Ability
-
 The two critical questions in the lending industry are,  A) What type of the borrower we are going to serve? B) Considering the borrower’s risk, Could we lend to this  borrower?
 Lenders provide loans to borrowers in exchange for repayment with capital and interest. Means the lender only makes profit if the borrower pays off the loan in full on time. However, if borrower doesn’t repay the loan, then the lender loses money. 
 So, for this project We’ll be using publicly available data from www.kaggle.com  and www.lendingclub.com 
