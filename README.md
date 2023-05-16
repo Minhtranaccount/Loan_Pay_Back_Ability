@@ -10,6 +10,9 @@ The data covers the approximately 9,578 loans funded by the platform between yea
 Project Members
 Khin Kyaw, Minh Tran, Rohan Liyanage
 
+
+![image](https://github.com/Minhtranaccount/Loan_Pay_Back_Ability/assets/115082961/c2e10f71-826b-4b81-84bc-158661af7d5c)
+
 ![image](https://github.com/Minhtranaccount/Loan_Pay_Back_Ability/assets/115082961/85ebf62b-bb87-41e6-badd-8693a0ac16b5)
 
 ![image](https://github.com/Minhtranaccount/Loan_Pay_Back_Ability/assets/115082961/c06d02bd-7634-4ed5-be3f-78ce8dda1e1b)
