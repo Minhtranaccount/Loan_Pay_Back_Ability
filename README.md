@@ -19,13 +19,23 @@ Khin Kyaw, Minh Tran, Rohan Liyanage
 
 #  Technologies used:
 Languages: Python, HTML & CSS
+
 Tools: Jupyter Notebook & GitHub
+
 Algorithms: Machine Learning Classification, Support Vector Machine, Linear Regression
 
 #  This is the navigation to read our project:
+
  Firstly clone the file from repositories to your machine, and run the following command
+ 
  chmod a+x run.sh
+
  Then you can test the application by running the following in your command line.
+ 
  ./run.sh
+ 
  Second copy the link and paste in browser.
- Finally you can see the homepage.  Click in the navigation bar to see the map and regional chart information.
+
+ Fill in testing details of a random borrower and click submit.
+ 
+ Now you will see the result if the borrower will pay back money in full.
