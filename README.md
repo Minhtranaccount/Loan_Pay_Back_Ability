@@ -13,7 +13,7 @@ Khin Kyaw, Minh Tran, Rohan Liyanage
 
 ![image](https://github.com/Minhtranaccount/Loan_Pay_Back_Ability/assets/115082961/85ebf62b-bb87-41e6-badd-8693a0ac16b5)
 
-![image](https://github.com/Minhtranaccount/Loan_Pay_Back_Ability/assets/115082961/c06d02bd-7634-4ed5-be3f-78ce8dda1e1b)
+![image](https://github.com/Minhtranaccount/Loan_Pay_Back_Ability/assets/117701483/809504d1-121a-46eb-bf8b-7b0260a0548c)
 
 ![image](https://github.com/Minhtranaccount/Loan_Pay_Back_Ability/assets/115082961/f61d48e7-653d-424f-98cb-1b66473bb691)
 
