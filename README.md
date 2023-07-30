@@ -15,7 +15,8 @@ Khin Kyaw, Minh Tran, Rohan Liyanage
 
 ![image](https://github.com/Minhtranaccount/Loan_Pay_Back_Ability/assets/117701483/809504d1-121a-46eb-bf8b-7b0260a0548c)
 
-![image](https://github.com/Minhtranaccount/Loan_Pay_Back_Ability/assets/115082961/f61d48e7-653d-424f-98cb-1b66473bb691)
+![image](https://github.com/Minhtranaccount/Loan_Pay_Back_Ability/assets/117701483/5b9a8583-e00c-4332-9c7c-67a98bac5d91)
+
 
 #  Technologies used:
 Languages: Python, HTML & CSS
