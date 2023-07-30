@@ -17,3 +17,15 @@ Khin Kyaw, Minh Tran, Rohan Liyanage
 
 ![image](https://github.com/Minhtranaccount/Loan_Pay_Back_Ability/assets/115082961/f61d48e7-653d-424f-98cb-1b66473bb691)
 
+#  Technologies used:
+Languages: Python, HTML & CSS
+Tools: Jupyter Notebook & GitHub
+Algorithms: Machine Learning Classification, Support Vector Machine, Linear Regression
+
+#  This is the navigation to read our project:
+ Firstly clone the file from repositories to your machine, and run the following command
+ chmod a+x run.sh
+ Then you can test the application by running the following in your command line.
+ ./run.sh
+ Second copy the link and paste in browser.
+ Finally you can see the homepage.  Click in the navigation bar to see the map and regional chart information.
